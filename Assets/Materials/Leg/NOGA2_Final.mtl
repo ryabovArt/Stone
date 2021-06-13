@@ -1,0 +1,12 @@
+# Blender MTL File: 'NOGA2_Final.blend'
+# Material Count: 1
+
+newmtl Mat_Leg
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.839904 0.604181 0.102176
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
